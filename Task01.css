@@ -1,0 +1,47 @@
+h2{
+    color: red;
+}
+
+h3{
+    color: blue;
+}
+p{
+    color: yellowgreen;
+}
+li{
+    color:blueviolet;
+}
+tr th{
+    color: gold;
+}
+tr td{
+    color: blue;
+}
+
+.name{
+    background-color: rgba(148, 18, 61, 0.788);
+}
+.pers{
+    background-color: rgba(19, 90, 90, 0.767);
+}
+.tabel{
+    background-color: rgba(165, 22, 22, 0.692);
+}
+.go{
+    background-color: teal;
+}
+.skills{
+    background-color: darkblue;
+}
+.skills1{
+    background-color: green;
+}
+.hobies{
+    background-color: rgba(11, 6, 14, 0.719);
+}
+.hobies1{
+    background-color: rgba(127, 179, 49, 0.801);
+}
+.lan{
+    background-color: rgb(8, 27, 8);
+}
